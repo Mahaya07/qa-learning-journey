@@ -2,7 +2,7 @@
 
 ## About Me
 QA Analyst with 4+ years of experience in Manual Testing, API Testing, and Content QA.
-Currently learning Automation using Selenium (Java) and REST Assured.
+Currently learning Automation using Postman REST Assured Playwright & Tosca.
 
 ## Skills
 - Manual Testing
